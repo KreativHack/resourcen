@@ -79,9 +79,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="147.18898"
-     inkscape:cy="517.29944"
+     inkscape:zoom="0.89702955"
+     inkscape:cx="372.04724"
+     inkscape:cy="526.1811"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -6657,11 +6657,6 @@ Jg3lfUEEACgWoVyH2nHL1rqhQiYFi/fPfq+UP8EJss3u4n/uyM25opxOVQAAAABJRU5ErkJggg==
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';text-align:start;text-anchor:start;fill:#e29043;fill-opacity:1"
          id="tspan14537">ANMELDUNG:</tspan></text>
     <path
-       inkscape:connector-curvature="0"
-       id="path4324"
-       d="m 696.48081,795.68426 -288.74725,0"
-       style="fill:none;fill-rule:evenodd;stroke:#20221d;stroke-width:12.21255207;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)" />
-    <path
        transform="matrix(6.043619,0,0,6.043619,-66.613741,-101.09291)"
        style="fill:#daecec;fill-opacity:1;stroke:#20221d;stroke-width:3.30927539;stroke-miterlimit:4;stroke-dasharray:none"
        inkscape:connector-curvature="0"
@@ -7167,5 +7162,17 @@ Jg3lfUEEACgWoVyH2nHL1rqhQiYFi/fPfq+UP8EJss3u4n/uyM25opxOVQAAAABJRU5ErkJggg==
         </g>
       </g>
     </g>
+    <circle
+       style="opacity:0.7;fill:#ff0000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path15179"
+       cx="371.27795"
+       cy="796.17255"
+       r="4.9239483" />
+    <path
+       style="fill:#20221d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 295.41948,643.77938 371.4281,796.47818 348.79979,646.57847"
+       id="path15175"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
   </g>
 </svg>
